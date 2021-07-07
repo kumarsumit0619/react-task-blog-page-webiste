@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-task-blog-page-webiste/static/css/main.53db8ba6.chunk.css",
+    "main.js": "/react-task-blog-page-webiste/static/js/main.354fe662.chunk.js",
+    "main.js.map": "/react-task-blog-page-webiste/static/js/main.354fe662.chunk.js.map",
+    "runtime-main.js": "/react-task-blog-page-webiste/static/js/runtime-main.57716839.js",
+    "runtime-main.js.map": "/react-task-blog-page-webiste/static/js/runtime-main.57716839.js.map",
+    "static/js/2.f4c9e5b7.chunk.js": "/react-task-blog-page-webiste/static/js/2.f4c9e5b7.chunk.js",
+    "static/js/2.f4c9e5b7.chunk.js.map": "/react-task-blog-page-webiste/static/js/2.f4c9e5b7.chunk.js.map",
+    "index.html": "/react-task-blog-page-webiste/index.html",
+    "static/css/main.53db8ba6.chunk.css.map": "/react-task-blog-page-webiste/static/css/main.53db8ba6.chunk.css.map",
+    "static/js/2.f4c9e5b7.chunk.js.LICENSE.txt": "/react-task-blog-page-webiste/static/js/2.f4c9e5b7.chunk.js.LICENSE.txt",
+    "static/media/blog-list-1.bfc6e489.png": "/react-task-blog-page-webiste/static/media/blog-list-1.bfc6e489.png",
+    "static/media/blog-list-2.6c2ccb5d.png": "/react-task-blog-page-webiste/static/media/blog-list-2.6c2ccb5d.png",
+    "static/media/linkio.37e28791.png": "/react-task-blog-page-webiste/static/media/linkio.37e28791.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57716839.js",
+    "static/js/2.f4c9e5b7.chunk.js",
+    "static/css/main.53db8ba6.chunk.css",
+    "static/js/main.354fe662.chunk.js"
+  ]
+}
